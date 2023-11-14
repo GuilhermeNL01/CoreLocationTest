@@ -7,7 +7,7 @@ Este é um aplicativo simples SwiftUI que utiliza o Core Location para mostrar a
 - Exibe um mapa centrado na localização atual do usuário.
 - Mostra detalhes sobre a latitude, longitude e a localidade (se disponível).
 - Permite centralizar o mapa na posição atual do usuário.
-- Utiliza geocodificação reversa para obter informações detalhadas sobre a localização.
+- Utiliza [Geolocalização Reversa](#[geolocalização-reversa](https://developers.google.com/maps/documentation/javascript/geocoding?hl=pt)). para obter informações detalhadas sobre a localização.
 
 ## Como Usar
 
