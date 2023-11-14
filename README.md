@@ -32,4 +32,4 @@ Se encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade par
 
 ## Autor
 
-[Guilherme Nunes Lobo]
+Guilherme Nunes Lobo
