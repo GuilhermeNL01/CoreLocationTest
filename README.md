@@ -9,12 +9,6 @@ Este é um aplicativo simples SwiftUI que utiliza o Core Location para mostrar a
 - Permite centralizar o mapa na posição atual do usuário.
 - Utiliza geocodificação reversa para obter informações detalhadas sobre a localização.
 
-## Requisitos
-
-- iOS 14.0+
-- Swift 5.0+
-- Xcode 12.0+
-
 ## Como Usar
 
 1. Clone ou baixe o repositório.
